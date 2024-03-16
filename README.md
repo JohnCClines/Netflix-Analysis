@@ -13,7 +13,7 @@ Creating Visualizations for a Netflix Dataset
 - Establish Report Theme
 - Finalize and Launch Report
 ## Data Visualizations
-#### Page 1
+#### Page 1: Summary
 - Card: Total Listing #
 - Card: Total Movie #
 - Card: Total TV Show #
