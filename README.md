@@ -11,6 +11,13 @@ Creating Visualizations for a Netflix Dataset
 - New Tables for Cast, Countries, Directors, and Genres
 - Additional Columns for Durations and Ratings Groupings
 ## Data Visualizations
-- Metric: Total Listing #
-- Metric: Total Movie #
-- Metric: Total TV Show #
+#### Page 1
+- Card: Total Listing #
+- Card: Total Movie #
+- Card: Total TV Show #
+- Clustered Column Chart: Releases Over Time (Year) by Movie & TV Show
+- Donut Chart: Movie Durations
+- Donut Chart: TV Show Durations
+- Pie Chart: Movie Ratings (Custom Groupings)
+- Pie Chart: TV Show Ratings (Custom Groupings)
+- Stacked Bar Chart: Top 5 Genres by Count
