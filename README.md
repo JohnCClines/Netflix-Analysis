@@ -6,10 +6,12 @@ Creating Visualizations for a Netflix Dataset
 - Collect Dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - Import Data
 - Data Cleaning & Transforming
-- Data Visualization
-## Data Transformations
-- New Tables for Cast, Countries, Directors, and Genres
+- Create New Tables for Cast, Countries, Directors, and Genres
+- Establish Bi-Directional Relationships between Tables
 - Additional Columns for Durations and Ratings Groupings
+- Create Visualizations
+- Establish Report Theme
+- Finalize and Launch Report
 ## Data Visualizations
 #### Page 1
 - Card: Total Listing #
