@@ -23,3 +23,4 @@ Creating Visualizations for a Netflix Dataset
 - Pie Chart: Movie Ratings (Custom Groupings)
 - Pie Chart: TV Show Ratings (Custom Groupings)
 - Stacked Bar Chart: Top 5 Genres by Count
+[Page 1]([url](https://github.com/JohnCClines/Netflix-Analysis/blob/3e3b71a95eab19727be6894567c65bf39da75add/Netflix.pdf)https://github.com/JohnCClines/Netflix-Analysis/blob/3e3b71a95eab19727be6894567c65bf39da75add/Netflix.pdf)
